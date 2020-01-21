@@ -1,2 +1,2 @@
-# pysift-learning
-PySift learning
+# pysyft-learning
+PySyft learning
